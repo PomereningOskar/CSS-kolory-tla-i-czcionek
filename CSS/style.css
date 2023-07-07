@@ -1,0 +1,43 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: brown;
+    background-color: aqua;
+}
+
+.color-1 {
+    color: blue;
+    background-color: azure;
+}
+
+h2 {
+    color: azure;
+    background-color: blueviolet;
+}
+
+.color-2 {
+    color: red;
+    background-color: blue;
+}
+
+.li-1 {
+    color: cadetblue;
+}
+
+.li-2 {
+    color: darkolivegreen;
+}
+
+.li-3 {
+    color: blueviolet;
+}
+
+.li-4 {
+    color: darkblue;
+}
+
+.li-5 {
+    color: coral;
+}
